@@ -1,0 +1,28 @@
+{
+  "name": "chapter-3-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sidgsn1/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/Sidgsn1/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidgsn1/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Siddharth Gusain",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
