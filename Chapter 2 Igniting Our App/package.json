@@ -1,0 +1,31 @@
+{
+  "name": "chapter-2-igniting-our-app",
+  "version": "1.0.0",
+  "description": "Day 2 of learning React",
+  "homepage": "https://github.com/Sidgsn1/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/Sidgsn1/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidgsn1/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Siddharth Gusain",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
